@@ -1,4 +1,5 @@
 # TrackFlash
+<img width="1310" height="549" alt="image" src="https://github.com/user-attachments/assets/60202d9c-09af-4daf-b13e-d86e1c5f4272" />
 
 Jogo de adivinhar músicas por trechos curtos. O jogador ouve um clip do início da faixa e tenta acertar o nome. A cada erro o trecho aumenta.
 
